@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dybovyi-table/static/js/main.0c7f86f4.js",
-    "index.html": "/dybovyi-table/index.html",
-    "main.0c7f86f4.js.map": "/dybovyi-table/static/js/main.0c7f86f4.js.map"
+    "main.js": "/dubovyi-table/static/js/main.ed33890d.js",
+    "index.html": "/dubovyi-table/index.html",
+    "main.ed33890d.js.map": "/dubovyi-table/static/js/main.ed33890d.js.map"
   },
   "entrypoints": [
-    "static/js/main.0c7f86f4.js"
+    "static/js/main.ed33890d.js"
   ]
 }
