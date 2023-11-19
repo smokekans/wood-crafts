@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/dubovyi-table/static/js/main.ed33890d.js",
-    "index.html": "/dubovyi-table/index.html",
-    "main.ed33890d.js.map": "/dubovyi-table/static/js/main.ed33890d.js.map"
+    "main.js": "/wood-crafts/static/js/main.5fd809b6.js",
+    "static/media/logo-wood-crafts.png": "/wood-crafts/static/media/logo-wood-crafts.e5751904f2c70666bc4d.png",
+    "index.html": "/wood-crafts/index.html",
+    "main.5fd809b6.js.map": "/wood-crafts/static/js/main.5fd809b6.js.map"
   },
   "entrypoints": [
-    "static/js/main.ed33890d.js"
+    "static/js/main.5fd809b6.js"
   ]
 }
