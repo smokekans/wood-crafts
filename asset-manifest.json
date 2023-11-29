@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/wood-crafts/static/js/main.5447d34e.js",
+    "main.js": "/wood-crafts/static/js/main.3f12e064.js",
     "static/media/logo-wood-crafts.png": "/wood-crafts/static/media/logo-wood-crafts.e5751904f2c70666bc4d.png",
     "index.html": "/wood-crafts/index.html",
-    "main.5447d34e.js.map": "/wood-crafts/static/js/main.5447d34e.js.map"
+    "main.3f12e064.js.map": "/wood-crafts/static/js/main.3f12e064.js.map"
   },
   "entrypoints": [
-    "static/js/main.5447d34e.js"
+    "static/js/main.3f12e064.js"
   ]
 }
