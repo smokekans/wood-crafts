@@ -1,11 +1,33 @@
 {
   "files": {
-    "main.js": "/wood-crafts/static/js/main.3f12e064.js",
+    "main.js": "/wood-crafts/static/js/main.4b298bc9.js",
+    "static/js/983.765ab37d.chunk.js": "/wood-crafts/static/js/983.765ab37d.chunk.js",
+    "static/js/923.2b0599db.chunk.js": "/wood-crafts/static/js/923.2b0599db.chunk.js",
+    "static/js/961.3f01183a.chunk.js": "/wood-crafts/static/js/961.3f01183a.chunk.js",
+    "static/js/530.856802be.chunk.js": "/wood-crafts/static/js/530.856802be.chunk.js",
+    "static/js/520.d6f8beb3.chunk.js": "/wood-crafts/static/js/520.d6f8beb3.chunk.js",
+    "static/js/905.a2ed8518.chunk.js": "/wood-crafts/static/js/905.a2ed8518.chunk.js",
+    "static/js/986.93efa09a.chunk.js": "/wood-crafts/static/js/986.93efa09a.chunk.js",
+    "static/js/725.b14f8103.chunk.js": "/wood-crafts/static/js/725.b14f8103.chunk.js",
+    "static/js/376.2476b971.chunk.js": "/wood-crafts/static/js/376.2476b971.chunk.js",
+    "static/js/953.952e4cbf.chunk.js": "/wood-crafts/static/js/953.952e4cbf.chunk.js",
+    "static/js/188.581e2f75.chunk.js": "/wood-crafts/static/js/188.581e2f75.chunk.js",
     "static/media/logo-wood-crafts.png": "/wood-crafts/static/media/logo-wood-crafts.e5751904f2c70666bc4d.png",
     "index.html": "/wood-crafts/index.html",
-    "main.3f12e064.js.map": "/wood-crafts/static/js/main.3f12e064.js.map"
+    "main.4b298bc9.js.map": "/wood-crafts/static/js/main.4b298bc9.js.map",
+    "983.765ab37d.chunk.js.map": "/wood-crafts/static/js/983.765ab37d.chunk.js.map",
+    "923.2b0599db.chunk.js.map": "/wood-crafts/static/js/923.2b0599db.chunk.js.map",
+    "961.3f01183a.chunk.js.map": "/wood-crafts/static/js/961.3f01183a.chunk.js.map",
+    "530.856802be.chunk.js.map": "/wood-crafts/static/js/530.856802be.chunk.js.map",
+    "520.d6f8beb3.chunk.js.map": "/wood-crafts/static/js/520.d6f8beb3.chunk.js.map",
+    "905.a2ed8518.chunk.js.map": "/wood-crafts/static/js/905.a2ed8518.chunk.js.map",
+    "986.93efa09a.chunk.js.map": "/wood-crafts/static/js/986.93efa09a.chunk.js.map",
+    "725.b14f8103.chunk.js.map": "/wood-crafts/static/js/725.b14f8103.chunk.js.map",
+    "376.2476b971.chunk.js.map": "/wood-crafts/static/js/376.2476b971.chunk.js.map",
+    "953.952e4cbf.chunk.js.map": "/wood-crafts/static/js/953.952e4cbf.chunk.js.map",
+    "188.581e2f75.chunk.js.map": "/wood-crafts/static/js/188.581e2f75.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3f12e064.js"
+    "static/js/main.4b298bc9.js"
   ]
 }
