@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.js": "/wood-crafts/static/js/main.4597be9b.js",
+    "main.js": "/wood-crafts/static/js/main.39d8f952.js",
     "static/js/983.765ab37d.chunk.js": "/wood-crafts/static/js/983.765ab37d.chunk.js",
     "static/js/923.2b0599db.chunk.js": "/wood-crafts/static/js/923.2b0599db.chunk.js",
-    "static/js/961.d4db4a16.chunk.js": "/wood-crafts/static/js/961.d4db4a16.chunk.js",
-    "static/js/530.2fdcfafa.chunk.js": "/wood-crafts/static/js/530.2fdcfafa.chunk.js",
+    "static/js/961.a58b15b3.chunk.js": "/wood-crafts/static/js/961.a58b15b3.chunk.js",
+    "static/js/530.fe790967.chunk.js": "/wood-crafts/static/js/530.fe790967.chunk.js",
     "static/js/520.d6f8beb3.chunk.js": "/wood-crafts/static/js/520.d6f8beb3.chunk.js",
-    "static/js/866.ef691e77.chunk.js": "/wood-crafts/static/js/866.ef691e77.chunk.js",
+    "static/js/866.84ac4dbe.chunk.js": "/wood-crafts/static/js/866.84ac4dbe.chunk.js",
     "static/js/986.93efa09a.chunk.js": "/wood-crafts/static/js/986.93efa09a.chunk.js",
-    "static/js/685.5b46557f.chunk.js": "/wood-crafts/static/js/685.5b46557f.chunk.js",
+    "static/js/700.866f10dc.chunk.js": "/wood-crafts/static/js/700.866f10dc.chunk.js",
     "static/js/376.2476b971.chunk.js": "/wood-crafts/static/js/376.2476b971.chunk.js",
     "static/js/953.952e4cbf.chunk.js": "/wood-crafts/static/js/953.952e4cbf.chunk.js",
-    "static/js/420.1fea4e7e.chunk.js": "/wood-crafts/static/js/420.1fea4e7e.chunk.js",
+    "static/js/266.e7b9d1fa.chunk.js": "/wood-crafts/static/js/266.e7b9d1fa.chunk.js",
     "static/media/logo-wood-crafts.png": "/wood-crafts/static/media/logo-wood-crafts.e5751904f2c70666bc4d.png",
     "index.html": "/wood-crafts/index.html",
-    "main.4597be9b.js.map": "/wood-crafts/static/js/main.4597be9b.js.map",
+    "main.39d8f952.js.map": "/wood-crafts/static/js/main.39d8f952.js.map",
     "983.765ab37d.chunk.js.map": "/wood-crafts/static/js/983.765ab37d.chunk.js.map",
     "923.2b0599db.chunk.js.map": "/wood-crafts/static/js/923.2b0599db.chunk.js.map",
-    "961.d4db4a16.chunk.js.map": "/wood-crafts/static/js/961.d4db4a16.chunk.js.map",
-    "530.2fdcfafa.chunk.js.map": "/wood-crafts/static/js/530.2fdcfafa.chunk.js.map",
+    "961.a58b15b3.chunk.js.map": "/wood-crafts/static/js/961.a58b15b3.chunk.js.map",
+    "530.fe790967.chunk.js.map": "/wood-crafts/static/js/530.fe790967.chunk.js.map",
     "520.d6f8beb3.chunk.js.map": "/wood-crafts/static/js/520.d6f8beb3.chunk.js.map",
-    "866.ef691e77.chunk.js.map": "/wood-crafts/static/js/866.ef691e77.chunk.js.map",
+    "866.84ac4dbe.chunk.js.map": "/wood-crafts/static/js/866.84ac4dbe.chunk.js.map",
     "986.93efa09a.chunk.js.map": "/wood-crafts/static/js/986.93efa09a.chunk.js.map",
-    "685.5b46557f.chunk.js.map": "/wood-crafts/static/js/685.5b46557f.chunk.js.map",
+    "700.866f10dc.chunk.js.map": "/wood-crafts/static/js/700.866f10dc.chunk.js.map",
     "376.2476b971.chunk.js.map": "/wood-crafts/static/js/376.2476b971.chunk.js.map",
     "953.952e4cbf.chunk.js.map": "/wood-crafts/static/js/953.952e4cbf.chunk.js.map",
-    "420.1fea4e7e.chunk.js.map": "/wood-crafts/static/js/420.1fea4e7e.chunk.js.map"
+    "266.e7b9d1fa.chunk.js.map": "/wood-crafts/static/js/266.e7b9d1fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4597be9b.js"
+    "static/js/main.39d8f952.js"
   ]
 }
