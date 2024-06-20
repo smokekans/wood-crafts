@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkwood_crafts=self.webpackChunkwood_crafts||[]).push([[520],{4520:(r,e,t)=>{t.r(e),t.d(e,{default:()=>o});var n=t(3329);function o(){return(0,n.jsx)(n.Fragment,{children:"Not Found! error 404"})}}}]);
-//# sourceMappingURL=520.d6f8beb3.chunk.js.map

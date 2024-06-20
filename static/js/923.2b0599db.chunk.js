@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkwood_crafts=self.webpackChunkwood_crafts||[]).push([[923],{923:(e,r,s)=>{s.r(r),s.d(r,{default:()=>a});var t=s(3329);function a(){return(0,t.jsx)(t.Fragment,{children:"\u0423\u0432\u0456\u0439\u0434\u0456\u0442\u044c"})}}}]);
-//# sourceMappingURL=923.2b0599db.chunk.js.map
