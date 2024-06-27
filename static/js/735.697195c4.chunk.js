@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkwood_crafts=self.webpackChunkwood_crafts||[]).push([[735],{6735:(e,t,r)=>{r.r(t),r.d(t,{default:()=>n});var s=r(4554),c=r(3329);function n(){return(0,c.jsx)(s.Z,{sx:{textAlign:"center"},children:"\u0412\u0430\u0441 \u0432\u0456\u0442\u0430\u0454 WOOD CRAFTS"})}}}]);
-//# sourceMappingURL=735.697195c4.chunk.js.map
